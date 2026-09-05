@@ -1,0 +1,4 @@
+# Any python files modified but no test files modified
+needs-tests:
+- any: ['core_promo/**/*.py']
+  all: ['!core_promo/**/test*.py']

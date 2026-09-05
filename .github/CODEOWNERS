@@ -1,0 +1,7 @@
+# CODEOWNERS: users listed here are automatically requested for review
+# when a PR touches the matching paths.
+
+# Default owners for everything in the repo.
+# Extend or reassign per path as the team grows, e.g.
+#   core_promo/core_promo/doctype/ @someone
+* @ssakthivelmurugan @Sanjesh2254
